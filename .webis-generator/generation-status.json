@@ -1,16 +1,16 @@
 {
-  "timestamp": "2025-04-09T17:50:34.794Z",
+  "timestamp": "2025-04-09T17:51:06.421Z",
   "status": {
     "totalComponents": 2,
-    "completedComponents": 0,
+    "completedComponents": 1,
     "failedComponents": 0,
-    "progress": 0
+    "progress": 50
   },
   "components": [
     {
       "name": "HeroSection",
       "type": "hero",
-      "status": "pending",
+      "status": "completed",
       "description": "RTL hero section with headline, description, and booking CTA for a restaurant"
     },
     {
