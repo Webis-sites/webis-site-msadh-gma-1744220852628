@@ -1,11 +1,24 @@
 {
-  "timestamp": "2025-04-09T17:48:09.575Z",
+  "timestamp": "2025-04-09T17:50:34.794Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 2,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL hero section with headline, description, and booking CTA for a restaurant"
+    },
+    {
+      "name": "NavBar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL navigation bar with logo and menu links"
+    }
+  ],
   "repoName": "webis-site-msadh-gma-1744220852628"
 }
