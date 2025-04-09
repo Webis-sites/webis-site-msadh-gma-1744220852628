@@ -17,6 +17,9 @@
   --glass-blur: 8px;
   --neumorphic-bg: linear-gradient(145deg, #588C7E, #4ECDC4);
   --animation-duration: 0.3s;
+
+  --shadow-highlight: rgba(255, 255, 255, 0.8);
+  --glass-background: rgba(255, 255, 255, 0.1);
 }
 
     html {
